@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn
+pickle5
+plotly
+tensorflow
+dash
