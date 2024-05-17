@@ -5,3 +5,4 @@ pickle5
 plotly
 tensorflow
 dash
+gunicorn
